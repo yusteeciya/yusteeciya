@@ -1,65 +1,82 @@
-# Hi there, I'm yusteeciya 👋
+<div align="center">
 
 ```text
-«Code is code, but making it elegant is an art form.»
-Инженер, который пишет код не ради тикетов в Jira, а потому что влюблен в процесс создания вещей из чистого текста.
+       _                                 _                     
+ _ _  | |  _ _   ___  _ _   _ _   ___   |_| _ _   ___   ___   _ _ 
+
+| | | | | | | | |_ -||_'_| | | | | -_|  | || | | |  _| | -_| | | |
+|_  | |_| |___| |___||_,_| |___| |___|  |_||_  | |___| |___| |_  |
+|___|                                      |___|             |___|
 ```
 
-* 🚀 **Что я делаю:** Строю архитектуру, упаковываю сервисы в Docker и копаюсь в производительности баз данных.
-* 🧠 **Текущий фокус:** Экспериментирую с микросервисами на Go и кастомными компонентами на TypeScript.
-* 🌸 **Для души:** Читаю корейские вебтуны (манхвы), слушаю качественный k-pop и собираю эстетичные интерфейсы.
+`[ CONNECTED TO LOCALHOST // SESSION_ID: #0192-KST ]`
+<br/>
+<sub>«Code is like a manhwa frame — every line must have a purpose and style.»</sub>
 
 ---
 
-### 🛠️ Мой рабочий инструмент (Tech Stack)
+```text
+ ▐████████████████████████████████████████████████████████████▌
+ ▐ [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■□□□□] PROGRESS: 92%▌
+ ▐████████████████████████████████████████████████████████████▌
+```
 
-*   **Languages:** `JavaScript` `TypeScript` `Python` `Go` `SQL`
-*   **Libraries & Frameworks:** `React` `Next.js` `Node.js` `Express` `TailwindCSS`
-*   **Tools & Infra:** `Docker` `PostgreSQL` `Git` `Linux` `GitHub Actions`
-
----
-
-### 🏗️ Главные квесты (Featured Projects)
-
-<!-- Таблица с вашими проектами. Замените ссылки и описания на свои реальные репозитории -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h5>⚡ <a href="https://github.com"><b>Project Name One</b></a></h5>
-      <p>Кастомный парсер/сервис для автоматизации рутины. Написан полностью на Node.js и TypeScript. Высокая скорость, чистая архитектура.</p>
-      <sub><b>Stack:</b> TS, Node, Docker</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h5>🎨 <a href="https://github.com"><b>Webtoon UI Kit</b></a></h5>
-      <p>Пет-проект: библиотека интерфейсных компонентов в эстетике корейских веб-платформ. Легковесный, адаптивный, Pixel Perfect.</p>
-      <sub><b>Stack:</b> React, Tailwind, Vite</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📈 Статистика коммитов (My Coding Pulse)
-
-<div align="center">
-  <!-- Прозрачные карточки, которые подстраиваются под тему пользователя -->
-  <img src="https://vercel.app" width="49%" />
-  <img src="https://vercel.app" width="49%" />
 </div>
 
-<p align="center">
-  <br/>
-  <!-- Таймлайн активности (Генерируется автоматически на основе ваших коммитов) -->
-  <img src="https://herokuapp.com" width="100%" alt="GitHub Streak" />
-</p>
+### 🔮 ABOUT THE BUILDER
+```text
+┌────────────────────────────────────────────────────────┐
+│  • USERNAME  : yusteeciya                              │
+│  • OCCUPATION: Fullstack Engineer & Tech Enthusiast     │
+│  • LOCATION  : Seoul Time Zone (KST / UTC+9)           │
+│  • INTERESTS : Manhwa Core / Clean Code / Heavy Beats  │
+└────────────────────────────────────────────────────────┘
+```
+> Я люблю программирование за то, что оно позволяет создавать функциональное искусство из обычных строк текста. Постоянно экспериментирую с архитектурой приложений, автоматизирую рутину и собираю интерфейсы, которые работают плавно.
 
 ---
 
-### 💬 Давайте кодить вместе
-
-*   **Telegram:** [@yusteeciya](https://t.me) — *для идей, пет-проектов и код-ревью.*
-*   **Email:** `your_actual_email@example.com`
+### ⚔️ EQUIPMENT & TOOLS (STACК)
 
 ```text
-Всегда открыт для безумных open-source идей, интересных хакатонов или обсуждения крутых архитектурных решений.
+ 🛠️ HARDWARE OVERCLOCK:
+ ├── LANGUAGES   : [ JavaScript ]  [ TypeScript ]  [ Python ]  [ Go ]
+ ├── ECOSYSTEMS  : [ React.js ]     [ Next.js ]     [ Node.js ]
+ └── INFRA       : [ Docker ]      [ PostgreSQL ]  [ Linux ]
 ```
+
+---
+
+### 📊 METRICS & REPOS
+
+<div align="center">
+
+<img src="https://vercel.app" width="49%" />
+<img src="https://vercel.app" width="49%" />
+
+<br/>
+
+<img src="https://herokuapp.com" width="100%" />
+
+</div>
+
+---
+
+### 📡 SECURE LINKS
+
+```text
+ 🌐 CHANNELS:
+ ├── Telegram : https://t.me
+ └── Email    : yusteeciya@example.com
+```
+
+```text
+ 🎧 BGM LOOP:
+ └── [ ▶ ] Solo Leveling OST - Dark Aria // Phonk Core Mix
+```
+
+---
+
+<div align="center">
+<sub>`System Status: Stable // v2.6.10 // Active Code Grind`</sub>
+</div>
