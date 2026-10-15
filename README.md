@@ -1,40 +1,52 @@
-# Hi there, I'm yusteeciya 👋
+# Hi, I'm yusteeciya! 👋
 
-<!-- Счетчик просмотров профиля из статьи (цвет изменен на стильный фиолетовый) -->
+<!-- Минималистичный счетчик просмотров профиля для аналитики -->
 ![](https://komarev.com)
 
 ```text
-«Code is like a manhwa frame — every line must have a purpose and style.»
-Инженер, увлеченный созданием производительных систем и эстетичных интерфейсов.
+Software Engineer // Fullstack Developer
+Инженер, который любит создавать поддерживаемую архитектуру, автоматизировать процессы и собирать плавные интерфейсы.
 ```
 
 ---
 
-### 🔮 О себе / Профайл
+### 💻 System Specifications
 
-* 💻 **Специализация:** Разработка веб-приложений и построение чистой архитектуры.
-* ⚡ **Текущий квест:** Прокачиваю навыки оптимизации баз данных и микросервисов.
-* 🌸 **Интересы:** Современная корейская культура, кодинг под k-pop биты и чтение экшен-манхв.
-
----
-
-### ⚔️ Технологический стек (Inventory)
-
-* **Languages:** JavaScript, TypeScript, Python, Go, SQL
-* **Frameworks:** React, Next.js, Node.js, Express, TailwindCSS
-* **Infrastructure:** Docker, PostgreSQL, Git, Linux, GitHub Actions
-
----
-
-### 🏆 Достижения и Опыт (GitHub Trophy)
-<!-- Виджет трофеев из статьи в темной теме -->
-[![trophy](https://vercel.app)](https://github.com)
+```typescript
+const yusteeciya = {
+  role: "Fullstack Developer",
+  coreLanguages: ["JavaScript", "TypeScript", "Python", "Go"],
+  ecosystem: ["React", "Next.js", "Node.js", "Express", "TailwindCSS"],
+  infrastructure: ["Docker", "PostgreSQL", "MySQL", "Git", "Linux"],
+  architecturePatterns: ["RESTful APIs", "GraphQL", "Microservices"],
+  currentFocus: "Deepening knowledge in backend performance and CI/CD automation",
+  openTo: ["Commercial projects", "Open-source collaborations", "Code reviews"]
+};
+```
 
 ---
 
-### 📊 Боевая статистика (Metrics & Streak)
+### 🏗️ Избранные репозитории (Featured Projects)
 
-<!-- Блок из статьи: Основная статистика + Топ языков -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h5>⚡ <a href="https://github.com"><b>Core API Service</b></a></h5>
+      <p>Архитектурно чистый бэкенд-сервис на Node.js/TypeScript. Настроена JWT-авторизация, кэширование через Redis и полная изоляция среды в Docker.</p>
+      <sub><b>Stack:</b> TS, Node, PostgreSQL, Docker</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h5>🎨 <a href="https://github.com"><b>Performance Dashboard</b></a></h5>
+      <p>Адаптивная панель управления на React и Next.js. Оптимизирован рендеринг тяжелых графиков, настроен SSR и внедрена пиксельно-точная верстка.</p>
+      <sub><b>Stack:</b> React, Next.js, Tailwind CSS</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Пульс разработки (Engineering Metrics)
+
 <div align="center">
   <img src="https://vercel.app" width="49%" />
   <img src="https://vercel.app" width="49%" />
@@ -42,19 +54,16 @@
 
 <br/>
 
-<!-- Блок из статьи: Стрик коммитов (индикатор стабильности для HR) -->
-### 🔥 GitHub Streak Stats
+<!-- График стриков из хабр-статьи: показывает регулярность вашей работы -->
 [![GitHub Streak](https://herokuapp.com)](https://git.io)
 
 ---
 
-### 📡 Каналы связи
+### 📡 Каналы связи (Channels)
 
-* **Telegram:** [@yusteeciya](https://t.me)
-* **Email:** `yusteeciya@example.com`
+* **Telegram:** [@yusteeciya](https://t.me) — *для быстрого обсуждения идей и предложений*
+* **Email:** `yusteeciya@example.com` — *для официальных приглашений и документации*
 
----
-<div align="center">
-  <!-- Блок цитат из статьи, кастомизированный под темную тему -->
-  <img src="https://vercel.app" alt="Quotes" />
-</div>
+```text
+Буду рад новым знакомствам и совместным проектам. Если у вас есть интересная задача — пишите!
+```
