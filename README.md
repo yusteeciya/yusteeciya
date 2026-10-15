@@ -1,67 +1,29 @@
+# yusteeciya
+
+<p align="left">
+  <a href="https://t.me" target="_blank">Telegram</a> • 
+  <a href="mailto:yusteeciya@example.com">Email</a>
+</p>
+
+---
+
+### 📦 Stack & Tools
+
+*   **Languages:** JavaScript / TypeScript / Python / Go
+*   **Frameworks:** React / Next.js / Node.js
+*   **Infrastructure:** Docker / PostgreSQL / Linux
+
+---
+
+### 📊 Activity
+
 <div align="center">
-
-```text
-  __   __  _   _   ____   _____  _____  _____   ____  _____ __   __  _   _ 
-  \ \ / / | | | | / ___| |_   _|| ____|| ____| / ___||_   _|\ \ / / | | | |
-   \ V /  | | | | \___ \   | |  |  _|  |  _|  | |      | |   \ V /  | | | |
-
-    | |   | |_| |  ___) |  | |  | |___ | |___ | |___   | |    | |   | |_| |
-    |_|    \___/  |____/   |_|  |_____||_____| \____|  |_|    |_|    \___/ 
-```
-
-`[ СИСТЕМА ИНИЦИАЛИЗИРОВАНА: ПРОТОКОЛ ОХОТНИКА S-КЛАССА СИНХРОНИЗИРОВАН ]`
-<br/>
-<sub>«Если перед тобой стена — сокруши её. Если перед тобой правила — перепиши их под себя.»</sub>
-
----
-
-</div>
-
-### 🌐 СТАТУСНОЕ ОКНО ИГРОКА
-```🗂️
-Имя пользователя : yusteeciya
-Идентификатор    : #0192-X
-Текущий статус   : [ 🟢 ONLINE ] Режим непрерывного гринда
-Специализация    : Разработка сложных систем & Архитектура кода
-Пассивный навык  : Абсолютная концентрация при критических дедлайнах
-```
-
-> **Сюжетный лог:** Разработчик, выбравший путь одиночного прохождения сложных проектов. Предпочитаю чистую логику, высокую производительность и лаконичные интерфейсы. Неон Сеула, тяжелые биты в наушниках и бесконечные строки кода.
-
----
-
-### ⚔️ ИНВЕНТАРЬ И СНАРЯЖЕНИЕ
-```⚙️
-[КЛАССИЧЕСКОЕ ОРУЖИЕ] .................... Go / Python / TypeScript / Node.js
-[ТЯЖЕЛАЯ АРТИЛЛЕРИЯ] .................... Docker / PostgreSQL / Linux / Git
-[АРТЕФАКТЫ ВИЗУАЛА] .................... Figma / TailwindCSS / Next.js
-```
-
----
-
-### 📊 АНАЛИЗ БОЕВОЙ ЭФФЕКТИВНОСТИ
-<div align="center">
-
-<img src="https://vercel.app" width="49%" />
-<img src="https://vercel.app" width="49%" />
-
+  <img src="https://vercel.app" width="49%" />
+  <img src="https://vercel.app" width="49%" />
 </div>
 
 ---
 
-### 🕸️ ЗАПРОС НА СЛИЯНИЕ ГИЛЬДИЙ (КОНТАКТЫ)
-<details>
-<summary><b>📂 РАСКРЫТЬ ЗАСЕКРЕЧЕННЫЕ КАНАЛЫ СВЯЗИ</b></summary>
-<br/>
-
-*   **Telegram:** [@yusteeciya](https://t.me) — *для прямых контрактов и рейдов.*
-*   **Email:** `yusteeciya@example.com` — *официальные запросы системы.*
-*   **Секретный плейлист:** *Solo Leveling OST (Dark Aria) / Phonk Core / Cyberpunk Atmosphere.*
-
-</details>
-
----
-
 <div align="center">
-<sub>`System Version v2.6.10 // Последняя синхронизация с сервером: Октябрь 2026`</sub>
+  <img src="https://githubusercontent.com" alt="Snake" width="100%" />
 </div>
