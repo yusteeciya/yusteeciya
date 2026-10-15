@@ -1,53 +1,55 @@
 <div align="center">
 
-```text
-       _                                 _                     
- _ _  | |  _ _   ___  _ _   _ _   ___   |_| _ _   ___   ___   _ _ 
 
-| | | | | | | | |_ -||_'_| | | | | -_|  | || | | |  _| | -_| | | |
-|_  | |_| |___| |___||_,_| |___| |___|  |_||_  | |___| |___| |_  |
-|___|                                      |___|             |___|
-```
-
-`[ CONNECTED TO LOCALHOST // SESSION_ID: #0192-KST ]`
+`[ СИСТЕМНОЕ УВЕДОМЛЕНИЕ: ПОДКЛЮЧЕНИЕ К СЕРВЕРУ ПРОШЛО УСПЕШНО ]`
 <br/>
-<sub>«Code is like a manhwa frame — every line must have a purpose and style.»</sub>
+<sub>«Чтобы изменить мир, сначала нужно переписать его исходный код.»</sub>
 
 ---
 
 ```text
- ▐████████████████████████████████████████████████████████████▌
- ▐ [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■□□□□] PROGRESS: 92%▌
- ▐████████████████████████████████████████████████████████████▌
+ 🛡️ HP [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100% / 100%
+ 🔮 MP [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■□□□]  92% / 100%
 ```
 
 </div>
 
-### 🔮 ABOUT THE BUILDER
+### 📋 ОКНО СТАТУСА ПЕРСОНАЖА
 ```text
 ┌────────────────────────────────────────────────────────┐
-│  • USERNAME  : yusteeciya                              │
-│  • OCCUPATION: Fullstack Engineer & Tech Enthusiast     │
-│  • LOCATION  : Seoul Time Zone (KST / UTC+9)           │
-│  • INTERESTS : Manhwa Core / Clean Code / Heavy Beats  │
+│ ■ ИМЯ ИГРОКА : yusteeciya                              │
+│ ■ КЛАСС      : Fullstack Engineer (Класс: Творец)      │
+│ ■ ТИТУЛ      : Одиночный Игрок (Pet-Project Grinder)   │
+│ ■ ЛОКАЦИЯ    : Seoul Time Zone (KST / UTC+9)           │
 └────────────────────────────────────────────────────────┘
 ```
-> Я люблю программирование за то, что оно позволяет создавать функциональное искусство из обычных строк текста. Постоянно экспериментирую с архитектурой приложений, автоматизирую рутину и собираю интерфейсы, которые работают плавно.
 
----
-
-### ⚔️ EQUIPMENT & TOOLS (STACК)
-
+### 📊 РАСПРЕДЕЛЕНИЕ ХАРАКТЕРИСТИК (STATS)
 ```text
- 🛠️ HARDWARE OVERCLOCK:
- ├── LANGUAGES   : [ JavaScript ]  [ TypeScript ]  [ Python ]  [ Go ]
- ├── ECOSYSTEMS  : [ React.js ]     [ Next.js ]     [ Node.js ]
- └── INFRA       : [ Docker ]      [ PostgreSQL ]  [ Linux ]
+ 🛑 СИЛА (Backend)     [██████████████░░░] 85/100 -> Сборка архитектуры и баз данных
+ ⚡ ЛОВКОСТЬ (Frontend) [████████████████░] 90/100 -> Адаптивный UI и логика интерфейса
+ 🧠 ИНТЕЛЛЕКТ (DevOps)  [██████████░░░░░░░] 65/100 -> Контейнеризация и деплой систем
+ ⏳ ВЫНОСЛИВОСТЬ       [█████████████████] 95/100 -> Устойчивость к ночным дедлайнам
 ```
 
 ---
 
-### 📊 METRICS & REPOS
+### ⚔️ ДРЕВО НАВЫКОВ & ИНВЕНТАРЬ (TECH STACK)
+
+```text
+ 📜 АКТИВНЫЕ ЗАКЛИНАНИЯ (Languages):
+ ├── [ JavaScript ]  ── [ TypeScript ]  ── [ Python ]  ── [ Go ]
+ │
+ 🔮 МАГИЧЕСКИЕ АРТЕФАКТЫ (Frameworks):
+ ├── [ React.js ]     ── [ Next.js ]     ── [ Node.js ]
+ │
+ 🧱 ЗАЩИТНАЯ ЭКИПИРОВКА (Infrastructure):
+ └── [ Docker ]       ── [ PostgreSQL ]  ── [ Linux ]
+```
+
+---
+
+### 📊 АНАЛИЗ БОЕВОГО ОПЫТА (GITHUB METRICS)
 
 <div align="center">
 
@@ -56,27 +58,23 @@
 
 <br/>
 
-<img src="https://herokuapp.com" width="100%" />
+<!-- График непрерывной серии коммитов, стилизованный под "комбо-удары" -->
+<img src="https://herokuapp.com" width="100%" alt="Combo Streak" />
 
 </div>
 
 ---
 
-### 📡 SECURE LINKS
+### 📡 СВЯЗЬ С ГИЛЬДИЕЙ (CONTACTS)
 
 ```text
- 🌐 CHANNELS:
- ├── Telegram : https://t.me
- └── Email    : yusteeciya@example.com
-```
-
-```text
- 🎧 BGM LOOP:
- └── [ ▶ ] Solo Leveling OST - Dark Aria // Phonk Core Mix
+ 🌐 ДОСТУПНЫЕ КАНАЛЫ:
+ ├── Telegram : https://t.me  --> [ Начать прямой диалог ]
+ └── Email    : yusteeciya@example.com   --> [ Отправить официальный запрос ]
 ```
 
 ---
 
 <div align="center">
-<sub>`System Status: Stable // v2.6.10 // Active Code Grind`</sub>
+<sub>`Текущая версия билда: v2.6.10 // Сетка вкладов обновляется в реальном времени`</sub>
 </div>
