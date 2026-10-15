@@ -1,69 +1,72 @@
-# Hi, I'm yusteeciya! 👋
+## @icon("res://assets/developer_icon.svg")
+## Профиль разработчика yusteeciya.
+## Специализация: Fullstack-разработка, оптимизация систем и архитектура кода.
+##
+## Нажмите на счетчик просмотров для аналитики активности:
+## [img]https://komarev.com[/img]
 
-<!-- Минималистичный счетчик просмотров профиля для аналитики -->
-![](https://komarev.com)
+extends CommercialDeveloper
+class_name Yusteeciya
 
-```text
-Software Engineer // Fullstack Developer
-Инженер, который любит создавать поддерживаемую архитектуру, автоматизировать процессы и собирать плавные интерфейсы.
-```
+# --- ХАРАКТЕРИСТИКИ И СТЭК ---
 
----
+const ROLE: String = "Fullstack Engineer"
 
-### 💻 System Specifications
+const TECHNICAL_INVENTORY: Dictionary = {
+	"Languages": ["JavaScript", "TypeScript", "Python", "Go", "GDScript"],
+	"Frontend": ["React.js", "Next.js", "Tailwind CSS", "HTML5/CSS3"],
+	"Backend & Data": ["Node.js", "Express", "PostgreSQL", "MySQL", "Redis"],
+	"DevOps & Infrastructure": ["Docker", "Git", "GitHub Actions", "Linux"]
+}
 
-```typescript
-const yusteeciya = {
-  role: "Fullstack Developer",
-  coreLanguages: ["JavaScript", "TypeScript", "Python", "Go"],
-  ecosystem: ["React", "Next.js", "Node.js", "Express", "TailwindCSS"],
-  infrastructure: ["Docker", "PostgreSQL", "MySQL", "Git", "Linux"],
-  architecturePatterns: ["RESTful APIs", "GraphQL", "Microservices"],
-  currentFocus: "Deepening knowledge in backend performance and CI/CD automation",
-  openTo: ["Commercial projects", "Open-source collaborations", "Code reviews"]
-};
-```
+const ARCHITECTURE_PATTERNS: Array[String] = [
+	"RESTful APIs", 
+	"GraphQL", 
+	"Microservices", 
+	"Clean Architecture"
+]
 
----
+var current_focus: String = "Оптимизация производительности серверной части и автоматизация CI/CD"
+var open_to_work: bool = true
 
-### 🏗️ Избранные репозитории (Featured Projects)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h5>⚡ <a href="https://github.com"><b>Core API Service</b></a></h5>
-      <p>Архитектурно чистый бэкенд-сервис на Node.js/TypeScript. Настроена JWT-авторизация, кэширование через Redis и полная изоляция среды в Docker.</p>
-      <sub><b>Stack:</b> TS, Node, PostgreSQL, Docker</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h5>🎨 <a href="https://github.com"><b>Performance Dashboard</b></a></h5>
-      <p>Адаптивная панель управления на React и Next.js. Оптимизирован рендеринг тяжелых графиков, настроен SSR и внедрена пиксельно-точная верстка.</p>
-      <sub><b>Stack:</b> React, Next.js, Tailwind CSS</sub>
-    </td>
-  </tr>
-</table>
+# --- ИЗБРАННЫЕ РЕПОЗИТОРИИ (FEATURED PROJECTS) ---
 
----
+## [b]Core API Service[/b]
+## Высоконагруженный бэкенд на Node.js/TypeScript. JWT-авторизация, Redis-кэш и полная изоляция в Docker.
+## [url]https://github.com[/url]
+const CORE_API_SERVICE: String = "Production Ready"
 
-### 📊 Пульс разработки (Engineering Metrics)
+## [b]Performance Dashboard[/b]
+## Адаптивная панель на React/Next.js. Оптимизированный рендеринг тяжелых графиков данных и SSR.
+## [url]https://github.com[/url]
+const PERFORMANCE_DASHBOARD: String = "Pixel Perfect"
 
-<div align="center">
-  <img src="https://vercel.app" width="49%" />
-  <img src="https://vercel.app" width="49%" />
-</div>
 
-<br/>
+# ---ОБРАБОТКА СИГНАЛОВ И ЛОГИКА ---
 
-<!-- График стриков из хабр-статьи: показывает регулярность вашей работы -->
-[![GitHub Streak](https://herokuapp.com)](https://git.io)
+## Вызывается при инициализации сессии рекрутером (HR)
+func _ready() -> void:
+	_display_engineering_metrics()
+	_open_communication_channels()
 
----
 
-### 📡 Каналы связи (Channels)
+## Визуализация пупса разработки через встроенные графики активности
+func _display_engineering_metrics() -> void:
+	var stats_card: String = "https://vercel.app"
+	var languages_card: String = "https://vercel.app"
+	var streak_card: String = "https://herokuapp.com"
+	
+	print_rich("[img]%s[/img] [img]%s[/img]" % [stats_card, languages_card])
+	print_rich("[img]%s[/img]" % [streak_card])
 
-* **Telegram:** [@yusteeciya](https://t.me) — *для быстрого обсуждения идей и предложений*
-* **Email:** `yusteeciya@example.com` — *для официальных приглашений и документации*
 
-```text
-Буду рад новым знакомствам и совместным проектам. Если у вас есть интересная задача — пишите!
-```
+## Открытие каналов связи для предложений о работе и open-source рейдов
+func _open_communication_channels() -> void:
+	var contact_info: Dictionary = {
+		"Telegram": "https://t.me",
+		"Email": "yusteeciya@example.com"
+	}
+	
+	for channel in contact_info:
+		print("Доступный канал связи: %s -> %s" % [channel, contact_info[channel]])
