@@ -1,68 +1,65 @@
-<div align="right">
-  <img src="https://shields.io" alt="Naver Corp" />
-  <img src="https://shields.io" alt="Webtoon Engineering" />
-</div>
-
-# yusteeciya
-🚀 **Software Engineer** specializing in scalable web architectures, microservices, and performance optimization.
+# Hi there, I'm yusteeciya 👋
 
 ```text
-Focusing on clean code, seamless user experiences, and robust backend ecosystems. 
-Currently building and maintaining high-traffic webtoon distribution services.
+«Code is code, but making it elegant is an art form.»
+Инженер, который пишет код не ради тикетов в Jira, а потому что влюблен в процесс создания вещей из чистого текста.
 ```
+
+* 🚀 **Что я делаю:** Строю архитектуру, упаковываю сервисы в Docker и копаюсь в производительности баз данных.
+* 🧠 **Текущий фокус:** Экспериментирую с микросервисами на Go и кастомными компонентами на TypeScript.
+* 🌸 **Для души:** Читаю корейские вебтуны (манхвы), слушаю качественный k-pop и собираю эстетичные интерфейсы.
 
 ---
 
-### 🟢 Tech Stack & Core Competencies
+### 🛠️ Мой рабочий инструмент (Tech Stack)
 
+*   **Languages:** `JavaScript` `TypeScript` `Python` `Go` `SQL`
+*   **Libraries & Frameworks:** `React` `Next.js` `Node.js` `Express` `TailwindCSS`
+*   **Tools & Infra:** `Docker` `PostgreSQL` `Git` `Linux` `GitHub Actions`
+
+---
+
+### 🏗️ Главные квесты (Featured Projects)
+
+<!-- Таблица с вашими проектами. Замените ссылки и описания на свои реальные репозитории -->
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h4><b>Frontend Architecture</b></h4>
-      <ul>
-        <li>TypeScript / JavaScript</li>
-        <li>React.js / Next.js</li>
-        <li>Tailwind CSS</li>
-      </ul>
+    <td width="50%" valign="top">
+      <h5>⚡ <a href="https://github.com"><b>Project Name One</b></a></h5>
+      <p>Кастомный парсер/сервис для автоматизации рутины. Написан полностью на Node.js и TypeScript. Высокая скорость, чистая архитектура.</p>
+      <sub><b>Stack:</b> TS, Node, Docker</sub>
     </td>
-    <td width="33%" valign="top">
-      <h4><b>Backend & Data</b></h4>
-      <ul>
-        <li>Node.js / Go / Python</li>
-        <li>PostgreSQL / Redis</li>
-        <li>RESTful & GraphQL APIs</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4><b>DevOps & Infrastructure</b></h4>
-      <ul>
-        <li>Docker / Kubernetes</li>
-        <li>CI/CD (GitHub Actions)</li>
-        <li>Linux / AWS Cloud</li>
-      </ul>
+    <td width="50%" valign="top">
+      <h5>🎨 <a href="https://github.com"><b>Webtoon UI Kit</b></a></h5>
+      <p>Пет-проект: библиотека интерфейсных компонентов в эстетике корейских веб-платформ. Легковесный, адаптивный, Pixel Perfect.</p>
+      <sub><b>Stack:</b> React, Tailwind, Vite</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Engineering Metrics
+### 📈 Статистика коммитов (My Coding Pulse)
 
 <div align="center">
-  <!-- Карточки кастомизированы под фирменные цвета Naver (белый фон, зеленые акценты для темной темы GitHub) -->
+  <!-- Прозрачные карточки, которые подстраиваются под тему пользователя -->
   <img src="https://vercel.app" width="49%" />
   <img src="https://vercel.app" width="49%" />
 </div>
 
----
-
-### 📡 Connection Channels
-
-*   **Corporate Email:** `yusteeciya@naver.com`
-*   **Secure Messenger:** [Telegram Contact](https://t.me)
-*   **Current Location:** Seoul, South Korea 🇰🇷 (KST / UTC+9)
+<p align="center">
+  <br/>
+  <!-- Таймлайн активности (Генерируется автоматически на основе ваших коммитов) -->
+  <img src="https://herokuapp.com" width="100%" alt="GitHub Streak" />
+</p>
 
 ---
-<div align="center">
-  <sub>Naver Webtoon Engineering Group • Privileged Profile</sub>
-</div>
+
+### 💬 Давайте кодить вместе
+
+*   **Telegram:** [@yusteeciya](https://t.me) — *для идей, пет-проектов и код-ревью.*
+*   **Email:** `your_actual_email@example.com`
+
+```text
+Всегда открыт для безумных open-source идей, интересных хакатонов или обсуждения крутых архитектурных решений.
+```
