@@ -17,9 +17,7 @@
 
 ### 📡 Contact // 소통 창구
 
-* **Telegram** — [@yusteeciya](https://t.me)
 * **Discord** — `yusteeciya.`
-* **Mail** — [yusteeciya@naver.com](mailto:yusteeciya@naver.com)
 
 ---
 
